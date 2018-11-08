@@ -1,5 +1,0 @@
-Manifest-Version: 1.0.1
-Built-By: gradle 4.10
-Built-date: 2018-11-08 17:07:05
-packageName: springcloud-common
-
